@@ -1,0 +1,23 @@
+Circuit: * C:\Users\sabri\OneDrive\Documents\Research-material\WPT-Basic-Circuit\spice\circuit-sch.asc
+
+.OP point found by inspection.
+.step x=0.8
+.step x=0.9
+
+Date: Tue Feb 27 10:03:54 2024
+Total elapsed time: 0.067 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 8
+fillins = 1
+solver = Normal
+Avg thread counts: 16.0/0.0/0.0/6.6
+Matrix Compiler1:      21 opcodes
+Matrix Compiler2:      46 opcodes
